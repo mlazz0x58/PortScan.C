@@ -1,5 +1,5 @@
 <div aling = "center">
-<h1> Escâner de portas em C </h1>
+<h1> Scanner de portas em C </h1>
 
 
 <span> Aviso! </span>
